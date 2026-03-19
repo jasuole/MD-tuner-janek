@@ -3,4 +3,4 @@
 
 P - Proportional 
 I - Integral
-D - erivative
+D - Derivative
