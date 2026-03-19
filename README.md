@@ -1,2 +1,6 @@
 # MD-tuner-janek
-created by janek
+## Velocity and Position
+
+P - Proportional 
+I - Integral
+D - erivative
