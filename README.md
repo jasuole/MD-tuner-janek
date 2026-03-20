@@ -1,4 +1,4 @@
-# MD-tuner-janek
+# MD-tuner
 ## Velocity and Position
 
 P - Proportional 
